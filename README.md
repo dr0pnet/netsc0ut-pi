@@ -16,7 +16,6 @@ NetSc0ut is a Raspberry Pi 5 based portable network reconnaissance platform desi
 - WireGuard VPN integration
 - Terminal (ttyd)
 - ESP32 companion tools
-- nRF24 support
 - GPS support
 - Modular C++ and Python tools
 
